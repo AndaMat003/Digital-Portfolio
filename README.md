@@ -85,4 +85,23 @@ During the visit, I engaged with team members, asked questions about operational
 ### Result  
 The images and experiences from the Distribution Center visit demonstrate my ability to network professionally, communicate effectively with colleagues, and understand operational processes. This activity strengthened my interpersonal skills, teamwork, and awareness of professional standards in a workplace setting.  
 
+# Workplace Etiquette
 
+## Evidence  
+The images show me wearing a safety thermal jacket and safety shoes during a visit to the Distribution Center's cold storage area. This demonstrates my adherence to workplace safety protocols and professional standards while performing on-site activities.  
+
+These artefacts provide visual proof that I understand the importance of safety, proper attire, and professional conduct in a workplace environment, especially in settings with specific safety requirements.  
+
+## STAR Reflection  
+
+### Situation  
+As part of my Work Integrated Learning preparation, I visited the Distribution Center cold storage area, where safety and professional conduct are critical due to the low-temperature environment and operational hazards.  
+
+### Task  
+My task was to follow all safety protocols, wear the appropriate protective clothing, and behave professionally while observing and learning from the on-site processes.  
+
+### Action  
+I wore the required safety thermal jacket and safety shoes, adhered to the site’s safety guidelines, and maintained professional behavior throughout the visit. I also observed how colleagues followed safety procedures and interacted respectfully in a professional environment.  
+
+### Result  
+The images and reflections demonstrate my commitment to workplace etiquette and safety. I learned the importance of proper attire, following protocols, and maintaining professionalism in all work settings. This experience enhanced my understanding of workplace safety and professional behavior, which are essential skills for any career in IT or business environments.
