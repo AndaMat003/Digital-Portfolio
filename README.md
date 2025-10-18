@@ -20,7 +20,25 @@ During the visits, I took photographs and made detailed notes on various aspects
 The completed slideshow effectively presented the store visit feedback in a professional and structured format. It demonstrated my ability to gather information, analyze it, and communicate insights clearly. This activity strengthened my skills in observation, reporting, and visual communication, which are essential in business communication and professional practice.  
 
 
+# Interview Skills
 
+## Evidence  
+The PDF of my interview responses demonstrates my preparation and practice for professional IT interviews. It shows how I articulated my background, technical skills, and experience in projects such as a restaurant management system.  
+The document also highlights my understanding of the IT field, my motivation for choosing Woolworths for Work Integrated Learning, and my approach to problem-solving and teamwork. This artefact provides evidence of my ability to communicate clearly, structure responses effectively, and reflect on my skills and experiences in a professional context.
+
+## STAR Reflection  
+
+### Situation  
+As part of my Work Readiness Training, I prepared for a mock interview targeting IT roles in a professional business environment. The goal was to practice articulating my experience, technical skills, and professional qualities to potential employers.  
+
+### Task  
+My task was to demonstrate my suitability for a Work Integrated Learning position at Woolworths by answering common interview questions, presenting my technical abilities, describing past projects, and explaining my motivations and career goals.  
+
+### Action  
+I prepared by reviewing potential interview questions, reflecting on my academic projects, and organizing my responses to highlight both technical skills and professional qualities. During the interview, I explained my experience with applications development, my programming and database skills, and my ability to handle challenges through persistence and collaboration. I also discussed why I chose IT, why Woolworths, and what I hoped to gain from the WIL experience.  
+
+### Result  
+The completed PDF demonstrates my readiness for professional interviews and shows my ability to communicate confidently and professionally. It highlights my technical expertise, problem-solving approach, and dedication to learning. This activity strengthened my communication skills, helped me organize my thoughts, and prepared me for real-world IT interviews.  
 
 
 
@@ -45,24 +63,4 @@ To prepare, I researched common ICT-related interview questions and practiced us
 ### Result  
 The interviewer gave me positive feedback on my confidence and structure. I learned how to communicate my achievements more effectively and how to stay calm under pressure. This experience helped me identify small areas to improve, such as making my answers shorter and more focused. Overall, the mock interview gave me valuable insight into how to approach real interviews during my upcoming Work Integrated Learning (WIL) placement.  
 
-
-# Interview Skills
-
-## Evidence  
-The PDF of my interview responses demonstrates my preparation and practice for professional IT interviews. It shows how I articulated my background, technical skills, and experience in projects such as a restaurant management system.  
-The document also highlights my understanding of the IT field, my motivation for choosing Woolworths for Work Integrated Learning, and my approach to problem-solving and teamwork. This artefact provides evidence of my ability to communicate clearly, structure responses effectively, and reflect on my skills and experiences in a professional context.
-
-## STAR Reflection  
-
-### Situation  
-As part of my Work Readiness Training, I prepared for a mock interview targeting IT roles in a professional business environment. The goal was to practice articulating my experience, technical skills, and professional qualities to potential employers.  
-
-### Task  
-My task was to demonstrate my suitability for a Work Integrated Learning position at Woolworths by answering common interview questions, presenting my technical abilities, describing past projects, and explaining my motivations and career goals.  
-
-### Action  
-I prepared by reviewing potential interview questions, reflecting on my academic projects, and organizing my responses to highlight both technical skills and professional qualities. During the interview, I explained my experience with applications development, my programming and database skills, and my ability to handle challenges through persistence and collaboration. I also discussed why I chose IT, why Woolworths, and what I hoped to gain from the WIL experience.  
-
-### Result  
-The completed PDF demonstrates my readiness for professional interviews and shows my ability to communicate confidently and professionally. It highlights my technical expertise, problem-solving approach, and dedication to learning. This activity strengthened my communication skills, helped me organize my thoughts, and prepared me for real-world IT interviews.  
 
