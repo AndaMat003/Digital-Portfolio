@@ -1,4 +1,4 @@
-# Business Communication – Store Visit Feedback
+# Business Communication 
 
 ## Evidence  
 The slideshow captures feedback from my store visits as part of my Business Communication activities. It includes both images from the stores and key observations, highlighting aspects such as store layout, product placement, customer interactions, and team communication.  
@@ -24,6 +24,7 @@ The completed slideshow effectively presented the store visit feedback in a prof
 
 
 
+# Mock Interview
 
 ## Evidence  
 The mock interview video shows me taking part in a simulated interview session that was part of the Work Readiness Training for Project Presentation 3. The purpose of this activity was to give me real experience of what it feels like to be in an actual job interview and to test how well I can communicate, present myself, and respond to different types of questions.  
