@@ -1,3 +1,30 @@
+# Business Communication – Store Visit Feedback
+
+## Evidence  
+The slideshow captures feedback from my store visits as part of my Business Communication activities. It includes both images from the stores and key observations, highlighting aspects such as store layout, product placement, customer interactions, and team communication.  
+
+This artefact demonstrates my ability to collect, organize, and present information professionally. The visual evidence combined with the feedback notes shows how I can effectively communicate observations in a clear and structured manner, which is an important skill in any business or professional environment.  
+
+## STAR Reflection  
+
+### Situation  
+As part of my Business Communication work, I was required to visit stores to observe operations and gather feedback. The goal was to analyze store practices and communicate my findings effectively to support business improvements.  
+
+### Task  
+My task was to record observations, capture images, and compile the findings into a clear and professional slideshow that communicates the feedback to relevant stakeholders.  
+
+### Action  
+During the visits, I took photographs and made detailed notes on various aspects of the stores, including product displays, staff interactions, and customer engagement. I then organized the information into a PowerPoint presentation, ensuring that each slide clearly conveyed the key points and included images for visual support.  
+
+### Result  
+The completed slideshow effectively presented the store visit feedback in a professional and structured format. It demonstrated my ability to gather information, analyze it, and communicate insights clearly. This activity strengthened my skills in observation, reporting, and visual communication, which are essential in business communication and professional practice.  
+
+
+
+
+
+
+
 ## Evidence  
 The mock interview video shows me taking part in a simulated interview session that was part of the Work Readiness Training for Project Presentation 3. The purpose of this activity was to give me real experience of what it feels like to be in an actual job interview and to test how well I can communicate, present myself, and respond to different types of questions.  
 
