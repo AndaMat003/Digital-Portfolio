@@ -64,3 +64,25 @@ To prepare, I researched common ICT-related interview questions and practiced us
 The interviewer gave me positive feedback on my confidence and structure. I learned how to communicate my achievements more effectively and how to stay calm under pressure. This experience helped me identify small areas to improve, such as making my answers shorter and more focused. Overall, the mock interview gave me valuable insight into how to approach real interviews during my upcoming Work Integrated Learning (WIL) placement.  
 
 
+# Professional Networking 
+
+## Evidence  
+The images show me and my colleagues on-site at the Distribution Center during a work activity, wearing reflectors for safety. These photos provide visual evidence of my engagement with the team, participation in workplace activities, and networking with colleagues in a professional setting.  
+
+This artefact demonstrates my ability to collaborate, communicate, and build relationships with peers and team members in a real-world professional environment. It also highlights my understanding of workplace safety and professionalism.  
+
+## STAR Reflection  
+
+### Situation  
+As part of professional networking activities during my Work Integrated Learning preparation, I visited the Distribution Center with colleagues to observe operations and engage with team members.  
+
+### Task  
+My task was to actively participate in the site visit, interact with colleagues, and observe professional practices while adhering to workplace safety protocols.  
+
+### Action  
+During the visit, I engaged with team members, asked questions about operational processes, and took note of workplace practices and safety measures. I also ensured I followed all safety protocols, such as wearing the required reflectors and maintaining situational awareness on-site.  
+
+### Result  
+The images and experiences from the Distribution Center visit demonstrate my ability to network professionally, communicate effectively with colleagues, and understand operational processes. This activity strengthened my interpersonal skills, teamwork, and awareness of professional standards in a workplace setting.  
+
+
